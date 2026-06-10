@@ -1,6 +1,6 @@
 # Software Testing Portfolio
 
-## About Me
+## About
 
 Software Testing Portfolio showcasing Manual Testing, API Testing (Postman), Performance Testing (JMeter), Test Automation (Python) Selenium, Defect Tracking (Jira), and SDLC/STLC documentation.
 
