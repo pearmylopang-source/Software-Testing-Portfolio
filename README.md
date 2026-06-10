@@ -2,9 +2,7 @@
 
 ## About Me
 
-I am a Quality Management professional transitioning into Software Testing and Quality Assurance. This portfolio showcases practical projects completed in Manual Testing, API Testing, Performance Testing, and Test Automation.
-
-Currently preparing for ISTQB certification and building hands-on experience in software quality engineering.
+Software Testing Portfolio showcasing Manual Testing, API Testing (Postman), Performance Testing (JMeter), Test Automation (Python) Selenium, Defect Tracking (Jira), and SDLC/STLC documentation.
 
 ---
 
